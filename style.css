@@ -1,7 +1,7 @@
 
 h2
 {
-    background-color: red;
+    background-color:rgb(173, 195, 230);
 }
 
 .underlinetext
@@ -19,4 +19,12 @@ h2
 {
     font-size: 32px;
     font-style: bold;
+    background-color: rgb(173, 195, 230);
+}
+
+#subparagraph
+{
+    font-size: 20px;
+    font-style: normal;
+    background-color: rgb(173, 195, 230);
 }
